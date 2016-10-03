@@ -10,10 +10,10 @@ define("PATH_HANDLERS",PATH_FULL_ABS."email/handler/");
 define("PATH_LIB_PHP",PATH_FULL_ABS."email/lib/php/");
 
 //Mailer Settings
-$MailerAddr[] = "tharley@peakalarm.com";
-//$MailerAddr[] = "dataentry@peakalarm.com";
+$MailerAddr[] = "test@test.com";
+//$MailerAddr[] = "test@test.com";
 
 define("MAILER_MAILTO",serialize($MailerAddr));
 define("MAILER_ADDRESS","172.20.1.56");
-define("MAILER_SUBJECT","PeakAlarm.com Information Request");
+define("MAILER_SUBJECT","testsite.com Information Request");
 ?>
