@@ -3,13 +3,13 @@
  *
  * Template Name: Services
  *
- * This template is used for the subpages of the Peak Security Template. 
+ * This template is used for the subpages of the travis harley Template. 
  *
- * @link https://peakalarm.com
+ * @link https://travisharley.com
  *
  * @package WordPress
- * @subpackage Peak Alarm
- * @since Peak Alarm 1.0
+ * @subpackage Travis Harley
+ * @since Travis Harley 1.0
  */
 get_header(); ?>
     <body>
