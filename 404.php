@@ -3,8 +3,8 @@
  * The template for displaying 404 pages (not found)
  *
  * @package WordPress
- * @subpackage Peak Alarm
- * @since Peak Alarm 1.0
+ * @subpackage Travis Harley
+ * @since Travis Harley 1.0
  */
 
 get_header(); ?>
