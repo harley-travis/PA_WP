@@ -1,7 +1,7 @@
 <?php
 /**
  *
- * Template Name: Peak Link
+ * Template Name: Link
  *
  * This template is used for the subpages of the travis harley Template. 
  *
