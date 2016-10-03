@@ -3,13 +3,13 @@
  *
  * Template Name: Contact
  *
- * This template is used for the subpages of the Peak Alarm Template. 
+ * This template is used for the subpages of the travis harley Template. 
  *
- * @link https://peakalarm.comt
+ * @link https://travisharley.com
  *
  * @package WordPress
- * @subpackage Peak Alarm
- * @since Peak Alarm 1.0
+ * @subpackage Travis Harley
+ * @since Travis harley 1.0
  */
 get_header(); ?>
     <body>
