@@ -5,8 +5,8 @@
  * Displays all of the <head> section and everything up till <div id="main">
  *
  * @package WordPress
- * @subpackage Peak Alarm
- * @since Peak Alarm 1.0
+ * @subpackage Travis Harley
+ * @since Travis Harley 1.0
  */
 ?>
 <!DOCTYPE html>
