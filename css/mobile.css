@@ -1,0 +1,448 @@
+/*************************** MOBILE STYLESHEET ***************************/
+
+@media only screen and (max-width: 1200px){
+    
+    .masonry {
+      -moz-column-count:    3;
+      -webkit-column-count: 3;
+      column-count:         3;
+    }
+}
+
+@media only screen and (max-width: 1199px){
+   
+    .intro-info.middle {
+        padding-top: 0;
+    }
+    .amount-view {
+        font-size: 4rem;
+    }
+    .amount {
+        font-size: 5rem;
+    }
+    .pl-row1 {
+        height: 65px !important;
+    }
+    .pl-row6 {
+        height: 65px !important;
+    }
+    .pl-row8 {
+        height: 130px !important;
+    }
+}
+
+@media only screen and (max-width: 1090px){
+
+    .video-section-desktop{
+        display: none !important;
+    }
+    .video-section-mobile {
+        display: block !important;
+    }
+}
+
+@media only screen and (max-width: 1024px){
+    
+    .p-pkg-banner {
+        height: 80vh;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    
+    .contact-form-home-wrapper {
+        padding: 50px;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    
+    a.menu-link{
+        display: initial;
+    }
+    nav.mainNav {
+        display: none;
+    }
+    h1.subpage-heading {
+        font-size: 6rem;
+    }
+    .carousel-caption {
+        top: 35%;
+    }
+    .newsletter-info {
+        text-align: center;
+    }
+    .newsletter-form {
+        text-align: center;
+    }
+    .services-arrow {
+        display: none;
+    }
+    .cta-btn {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .intro-info.middle {
+        padding-left: 15px;
+    }
+    .cta-text {
+        text-align: center;
+    }
+    .cta-action {
+        text-align: center;
+        padding-top: 10px;
+    }
+    .services-col {
+        margin-bottom: 50px;
+    }
+    .residential-slide,
+    .commercial-slide{
+        text-align: center;
+    }
+    .contact-right {
+        padding-top: 20px;
+    }
+    .par-wid-res,
+    .par-wid-com {
+        max-width: 1200px;
+    }
+    .pkg-house {
+        padding: 70px 0 0 0;
+    }
+    .box-1, 
+    .box-2, 
+    .box-3 {
+        padding: 30px 10px 40px 10px;
+        font-size: 2.5rem;
+    }
+    .box-1:before,
+    .box-2:before,
+    .box-3:before,
+    .box-1:after,
+    .box-2:after,
+    .box-3:after{
+        bottom: -7px;
+    }
+    li.pricing-column-header {
+        height: 315px;
+    }
+    .price {
+        padding: 125px 50px 0 50px;
+    }
+    li.int-pricing-column-header {
+        height: 315px;
+    }
+    .box-1, .box-2, .box-3 {
+        font-size: 2rem;
+    }
+    span.amount {
+        font-size: 5rem;
+    }
+    .price-view-btn {
+        padding: 10px 15px 10px 15px;
+    }
+    .price-view {
+        padding: 155px 0px 0 0px;
+    }
+    .amount-view {
+        font-size: 3rem;
+    }
+    span.month {
+        font-size: 1rem;
+    }
+    .price {
+        padding: 140px 50px 0 30px;
+    }
+    .price-btn{
+        padding: 10px 10px 10px 10px;
+    }
+    li.int-pricing-column-header-pl {
+        height: 315px;
+    }
+    .pl-row4 {
+        height: 60px !important;
+    }
+    .pl-row7 {
+        height: 110px !important;
+    }
+    .pl-row8 {
+        height: 165px !important;
+    }
+    .pl-row9 {
+        height: 110px !important;
+    }
+    .pl-row12 {
+        height: 105px !important;
+    }
+    .pl-row13 {
+        height: 65px !important;
+    }
+    
+}
+
+@media only screen and (max-width: 800px){
+    
+    h1.subpage-heading {
+        font-size: 5rem;
+    }
+    .copyright-size {
+        text-align: left;
+    }
+    .b-s-wrapper {
+        padding: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    
+    .slide-link-1 {
+        margin: 0 auto;
+    }
+    .newsletter-text {
+        text-align: center;
+    }
+    .carousel {
+        height: 545px;
+    }
+    .intro-info.middle{
+        text-align: center;
+    }
+    .home-theater-info {
+        text-align: center;
+    }
+    .final-img-info {
+        max-width: 1200px;
+        text-align: center;
+    }
+    .carousel-container {
+        text-align: center;
+    }
+    .s-1-directions {
+        margin-top: 30px;
+    }
+    .m-t-text {
+        text-align: center;
+    }
+    .h-s-info,
+    .b-s-info-odd {
+        text-align: center;
+        margin-top: 50px;
+    }
+    .business-security {
+        -webkit-clip-path: polygon(0% 0%, 0% 100%, 100% 85%, 101% 16%);
+        clip-path: polygon(0% 0%, 0% 100%, 100% 85%, 101% 16%);
+    }
+    .s-1-text,
+    .s-1-heading,
+    h2.s-1-h,
+    .s-1-btn{
+        text-align: center !important;
+    }
+    .peak-col {
+        margin-bottom: 50px;
+    }
+    .btn-right {
+        width: 100%;
+    }
+    .my-pills > li {
+        display: block !important;
+    }
+    .servicesBannerBox {
+        display: none;
+    }
+    .service-btn{
+        margin-top: 30px;
+    }
+    .services-btn {
+        max-width: none;
+        padding: 15px;
+        font-size: 1.6rem;
+    }
+    .serv-text-left,
+    .service-info{
+        padding-left: 0 !important;
+        text-align: center;
+    }
+    .b-s-wrapper{
+        padding: 70px;
+    }
+    .contact-right {
+        padding-top: 50px;
+    }
+    .contact-form-phone,
+    .footer-number{
+        text-align: left;
+    }
+    .contact-home-phone {
+        text-align: left;
+    }
+    .pb-wrapper {
+        width: 94%;
+    }
+    .p-pkg-banner {
+        height: auto;
+    }
+    .pkg-title {
+        margin-top: 0;
+    }
+    .pkg-list {
+        margin-top: 40px;
+    }
+    .p-peak-view,
+    .p-peak-link,
+    .p-peak-edge,
+    .pkg-house-text,
+    .pkg-house-text{
+        text-align: center;
+    }
+    .ppv-info,
+    .ppl-info{
+        padding-top: 45px;
+    }
+    .b-s-img {
+        margin-top: 35px;
+    }
+    .pkg-options {
+        display: none;
+    }
+    .pkg-layout-mobile {
+        display: block;
+        margin-top: 40px;
+    }
+    .price {
+        padding: 150px 50px 0 50px;
+    }
+    span.month {
+        font-size: 2rem;
+    }
+    
+}
+
+@media only screen and (max-width: 750px){
+    
+    .content-wrapper {
+        top: 10%;
+    }
+    .b-s-wrapper {
+        padding: 75px;
+    }
+}
+
+@media only screen and (max-width: 600px){
+    
+    .s-1-directions {
+        margin-top: -25px;
+    }
+    .products-wrapper {
+        margin: 0 auto !important;
+    }
+    .contact-form-home-wrapper {
+        padding: 40px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    
+    .logo-img {
+        min-width: 215px;
+    }
+    button.peak-btn {
+        max-width: 450px;
+    }  
+    .page-content-right {
+        margin-top: 25px;
+    }
+    h2.peak-comp-int {
+        font-size: 2rem;
+    }
+    .contact-form-heading,
+    .contact-home-phone {
+        text-align: center;
+    }
+    .s-1-directions {
+        margin-top: -70px;
+    }
+}
+
+@media only screen and (max-width: 470px){
+    
+    h1.carousel-heading {
+        font-size: 3rem;
+    }
+    h1.subpage-heading {
+        font-size: 5rem;
+    }
+    .slide-adj {
+        height: 452px;
+    }
+    .carousel-indicators {
+        display: none;
+    }
+    .serviceBannerSection {
+        min-height: 600px;
+    }
+    .page-content-left {
+        text-align: center;
+    }
+    a.product-number {
+        font-size: 2.5rem;
+    }
+}
+
+@media only screen and (max-width: 415px){
+    
+    h1.subpage-heading {
+        font-size: 4rem;
+    }
+    .page-content-right {
+        margin-top: 45px;
+    }
+    .copyright-size {
+        text-align: left;
+        padding-top: 10px;
+    }
+    .pb-wrapper {
+        width: 92%;
+    }
+}
+
+@media only screen and (max-width: 369px){
+    
+    .top-bar-wrapper {
+        text-align: center;
+    }
+    .bar{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 367px){
+    
+    .page-content-right {
+        margin-top: 75px;
+    }
+    .main-nav {
+        padding: 0 !important;
+        margin-top: 10px;
+    }
+    .pb-wrapper {
+        top: 3%;
+    }
+}
+
+@media only screen and (max-width: 330px){
+    
+    h1.subpage-heading {
+        font-size: 3rem;
+    }
+    h2.footer-title{
+        font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 325px){
+ 
+    .page-content-right {
+        margin-top: 100px;
+    }
+}
