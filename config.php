@@ -15,6 +15,6 @@ define("PATH_LIB_PHP",PATH_FULL_ABS."email/lib/php/");
 $MailerAddr[] = "tharley@peakalarm.com";
 
 define("MAILER_MAILTO",serialize($MailerAddr));
-define("MAILER_ADDRESS","172.20.1.56");
+define("MAILER_ADDRESS","");
 define("MAILER_SUBJECT","PeakAlarm.com Information Request");
 ?>
